@@ -8,3 +8,6 @@ Join us for:
 - Friends who help you
 - A strong community that protects you
 - W (win)
+
+Links:
+- [Posts](/posts.md)
