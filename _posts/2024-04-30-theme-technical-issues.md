@@ -6,4 +6,6 @@ categories: github-pages issues
 author: O Nguyen (Leader)
 ---
 
+[Home](/) - [Index of posts](/posts.md)
+
 Some posts are not formatted and themed properly. We are working on resolving this issue.
