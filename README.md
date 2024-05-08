@@ -10,4 +10,4 @@ Join us for:
 - W (win)
 
 Links:
-- [Posts](/_posts/index.md)
+- [Posts](/_posts/index)
