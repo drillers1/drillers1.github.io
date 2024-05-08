@@ -1,14 +1,13 @@
-# Posts
+# Drillers
 
-[Home](/)
+**We are Drillers. Protecting each other.**
 
-## May 2024
+Join for:
+- Friends who support you
+- A strong community that protects you
+- W (win)
 
-- [Driller Knowledge Base](/_posts/2024-05-01-driller-knowledge-base.md) 2024-05-01
-- [Theme technical issues fixed](/_posts/2024-05-01-theme-technical-issues-fixed.md) 2024-05-01
+## Links
 
-## April 2024
-
-- [Theme technical issues](/_posts/2024-04-30-theme-technical-issues.md) 2024-04-30
-- [Driller List 2024](/_posts/2024-04-29-driller-list-2024.md) 2024-04-29
-- [Test](/_posts/2024-04-29-test.md) 2024-04-29
+- [Posts](/posts.md)
+- [Driller Knowledge Base](/kb/index.md)
