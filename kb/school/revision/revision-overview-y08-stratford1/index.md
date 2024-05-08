@@ -1,12 +1,12 @@
 # Year 8 Revision Overview for Stratford 1
 
-[Knowledge Base](/kb/index.md) > [School](/kb/school/index.md) > [Revision](/kb/school/revision/index.md)
+[Knowledge Base](/kb) > [School](/kb/school) > [Revision](/kb/school/revision)
 
 [Home](/)
 
 ## Contents
 
-0. [Introduction](/kb/school/revision/revision-overview-y08-stratford1/chapter/0.md)
+0. [Introduction](/kb/school/revision/revision-overview-y08-stratford1/chapter/0)
 
 ## Changelog
 
