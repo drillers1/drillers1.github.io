@@ -9,5 +9,5 @@ Join for:
 
 ## Links
 
-- [Posts](/_posts/index.md)
+- [Posts](/_posts/index)
 - [Driller Knowledge Base](/kb/index.md)
